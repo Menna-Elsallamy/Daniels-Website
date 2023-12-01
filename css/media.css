@@ -1,0 +1,29 @@
+@media (min-width: 992px){
+    .navbar-nav .nav-link{
+        position: relative;
+      }
+      .navbar-nav .nav-link::after{
+        content: "";
+        position: absolute;
+        height: 3px;
+        width: 0%;
+        background-color: #000;
+        left: 0;
+        bottom: 0;
+        transition: width 0.5s ease;
+      }
+       .navbar-nav .nav-link.active::after{
+        width: 100%;
+        
+      } 
+}
+@media (max-width: 768px) {
+    .img-area img{
+        display: inline-block;
+    }
+}
+@media screen and (max-width: 991px){
+#About > div > div > div.col-md-5.pt-5.hero{
+  margin-bottom: 80px !important;
+}
+} 
