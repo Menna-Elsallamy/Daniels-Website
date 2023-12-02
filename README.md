@@ -4,7 +4,7 @@ Discover [Daniels], a responsive front-end showcase using HTML,HTML5,CSS, CSS3, 
 [Daniels Website](https://menna-elsallamy.github.io/Daniels-Website/)
 # Screenshots of website
 ![Capture-One](https://github.com/Menna-Elsallamy/Daniels-Website/blob/main/websitescreenshots/Capture1.PNG)
-![Capture-Two]()
+![Capture-Two](https://github.com/Menna-Elsallamy/Daniels-Website/blob/main/websitescreenshots/Capture2.PNG)
 ![Capture-Three]()
 ![Capture-Four]()
 ![Capture-Five]()
