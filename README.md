@@ -2,6 +2,8 @@
 Discover [Daniels], a responsive front-end showcase using HTML,HTML5,CSS, CSS3,  JavaScript and bootstrap. Experience clean, interactive design across devices.
 # Live Demo
 [Daniels Website](https://menna-elsallamy.github.io/Daniels-Website/)
+# Website Video
+[Daniels Website](https://drive.google.com/file/d/1rRme3vsIv_KS_3piMNk1T0cmJGSfcjKu/view?usp=drive_link)
 # Screenshots of website
 ![Capture-One](https://github.com/Menna-Elsallamy/Daniels-Website/blob/main/websitescreenshots/Capture1.PNG)
 ![Capture-Two](https://github.com/Menna-Elsallamy/Daniels-Website/blob/main/websitescreenshots/Capture2.PNG)
